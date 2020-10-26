@@ -1,1 +1,1 @@
-# dom-lister
+# DOM Lister
